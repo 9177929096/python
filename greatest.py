@@ -1,6 +1,8 @@
-a=input()
-b=input()
-c=input()
+a=int(input())
+b=int(input())
+c=int(input())
+print(type(a))
+
 if((a>b)and (a>c)):
 	print(a)
 elif((c>b)and (c>a)):
