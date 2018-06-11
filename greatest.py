@@ -1,9 +1,9 @@
-a=raw_input()
-b=raw_input()
-c=raw_input()
+a=input()
+b=input()
+c=input()
 if((a>b)and (a>c)):
-	print("a is greatest")
+	print(a)
 elif((c>b)and (c>a)):
-	print('c is greatest')
+	print(c)
 else:
-	print("b is greatest")
+	print(b)
