@@ -1,6 +1,6 @@
 start=int(input())
 end=int(input())
-for n in range(start,end+1):
+for n in range(start,end):
 	num=0
 	for i in range(2,(n//2)+1):
 		if n%i==0:
