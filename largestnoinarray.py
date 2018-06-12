@@ -1,7 +1,7 @@
 
 n=int(input())
+list=[]
 for i in range(0,n):
-         list=[]
          b=int(input())
          list.append(b)
 list.sort()
