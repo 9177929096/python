@@ -7,4 +7,4 @@ for i in range(2,(n//2)+1):
 if num==0:
             print("yes")
 else:
-	print("no"
+	print("no")
